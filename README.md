@@ -1,2 +1,2 @@
 ## Food App
-Simple flutter food apa UI
+Simple flutter food app UI
